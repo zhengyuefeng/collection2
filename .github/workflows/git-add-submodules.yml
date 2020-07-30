@@ -16,16 +16,16 @@ jobs:
 
       - name: Init submodules
         run: |
-          git submodule add https://github.com/coolsnowwolf/lede.git
-          git submodule add https://github.com/huangqian8/Cloud-N1-OpenWrt.git
-          git submodule add https://github.com/tuanqing/install-program.git
-          git submodule add https://github.com/tuanqing/mknop.git
-          git submodule add https://github.com/KFERMercer/OpenWrt-CI.git
-          git submodule add https://github.com/P3TERX/Actions-OpenWrt.git
-          git submodule add https://github.com/cattyhouse/N1-install.git
-          git submodule add https://github.com/wulabing/V2Ray_ws-tls_bash_onekey.git
-          git submodule add https://github.com/sean-liang/PHICOMM-N1-OpenWRT-Image-Builder.git
-          git submodule add https://github.com/laris/Phicomm-N1.git
+          #git submodule add https://github.com/coolsnowwolf/lede.git
+          #git submodule add https://github.com/huangqian8/Cloud-N1-OpenWrt.git
+          #git submodule add https://github.com/tuanqing/install-program.git
+          #git submodule add https://github.com/tuanqing/mknop.git
+          #git submodule add https://github.com/KFERMercer/OpenWrt-CI.git
+          #git submodule add https://github.com/P3TERX/Actions-OpenWrt.git
+          #git submodule add https://github.com/cattyhouse/N1-install.git
+          #git submodule add https://github.com/wulabing/V2Ray_ws-tls_bash_onekey.git
+          #git submodule add https://github.com/sean-liang/PHICOMM-N1-OpenWRT-Image-Builder.git
+          #git submodule add https://github.com/laris/Phicomm-N1.git
           
           git submodule update --init --recursive
 
