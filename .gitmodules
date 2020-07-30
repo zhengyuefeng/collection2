@@ -1,0 +1,30 @@
+[submodule "lede"]
+	path = lede
+	url = https://github.com/coolsnowwolf/lede.git
+[submodule "Cloud-N1-OpenWrt"]
+	path = Cloud-N1-OpenWrt
+	url = https://github.com/huangqian8/Cloud-N1-OpenWrt.git
+[submodule "install-program"]
+	path = install-program
+	url = https://github.com/tuanqing/install-program.git
+[submodule "mknop"]
+	path = mknop
+	url = https://github.com/tuanqing/mknop.git
+[submodule "OpenWrt-CI"]
+	path = OpenWrt-CI
+	url = https://github.com/KFERMercer/OpenWrt-CI.git
+[submodule "Actions-OpenWrt"]
+	path = Actions-OpenWrt
+	url = https://github.com/P3TERX/Actions-OpenWrt.git
+[submodule "N1-install"]
+	path = N1-install
+	url = https://github.com/cattyhouse/N1-install.git
+[submodule "V2Ray_ws-tls_bash_onekey"]
+	path = V2Ray_ws-tls_bash_onekey
+	url = https://github.com/wulabing/V2Ray_ws-tls_bash_onekey.git
+[submodule "PHICOMM-N1-OpenWRT-Image-Builder"]
+	path = PHICOMM-N1-OpenWRT-Image-Builder
+	url = https://github.com/sean-liang/PHICOMM-N1-OpenWRT-Image-Builder.git
+[submodule "Phicomm-N1"]
+	path = Phicomm-N1
+	url = https://github.com/laris/Phicomm-N1.git
