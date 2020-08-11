@@ -28,3 +28,6 @@
 [submodule "Phicomm-N1"]
 	path = Phicomm-N1
 	url = https://github.com/laris/Phicomm-N1.git
+[submodule "JsonPath"]
+	path = JsonPath
+	url = https://github.com/json-path/JsonPath.git
