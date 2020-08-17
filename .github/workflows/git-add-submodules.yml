@@ -27,7 +27,8 @@ jobs:
           #git submodule add https://github.com/sean-liang/PHICOMM-N1-OpenWRT-Image-Builder.git
           #git submodule add https://github.com/laris/Phicomm-N1.git
           #git submodule add https://github.com/json-path/JsonPath.git
-          git submodule add https://github.com/Molunerfinn/PicGo.git
+          #git submodule add https://github.com/Molunerfinn/PicGo.git
+          git submodule add https://github.com/WebStackPage/WebStackPage.github.io.git
           
           git submodule update --init --recursive
 
