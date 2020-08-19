@@ -34,3 +34,9 @@
 [submodule "PicGo"]
 	path = PicGo
 	url = https://github.com/Molunerfinn/PicGo.git
+[submodule "WebStackPage.github.io"]
+	path = WebStackPage.github.io
+	url = https://github.com/WebStackPage/WebStackPage.github.io.git
+[submodule "onedrive"]
+	path = onedrive
+	url = https://github.com/skilion/onedrive
