@@ -29,6 +29,7 @@ jobs:
           #git submodule add https://github.com/json-path/JsonPath.git
           #git submodule add https://github.com/Molunerfinn/PicGo.git
           git submodule add https://github.com/WebStackPage/WebStackPage.github.io.git
+          git submodule add https://github.com/skilion/onedrive
           
           git submodule update --init --recursive
 
